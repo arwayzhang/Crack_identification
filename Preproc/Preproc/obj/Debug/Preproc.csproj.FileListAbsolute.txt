@@ -1,0 +1,10 @@
+E:\USYD\MR\Preproc\Preproc\bin\Debug\Preproc.exe
+E:\USYD\MR\Preproc\Preproc\bin\Debug\Preproc.pdb
+E:\USYD\MR\Preproc\Preproc\bin\Debug\Emgu.CV.UI.dll
+E:\USYD\MR\Preproc\Preproc\bin\Debug\Emgu.CV.World.dll
+E:\USYD\MR\Preproc\Preproc\bin\Debug\ZedGraph.dll
+E:\USYD\MR\Preproc\Preproc\bin\Debug\Emgu.CV.UI.xml
+E:\USYD\MR\Preproc\Preproc\bin\Debug\Emgu.CV.World.xml
+E:\USYD\MR\Preproc\Preproc\obj\Debug\Preproc.csprojResolveAssemblyReference.cache
+E:\USYD\MR\Preproc\Preproc\obj\Debug\Preproc.exe
+E:\USYD\MR\Preproc\Preproc\obj\Debug\Preproc.pdb
